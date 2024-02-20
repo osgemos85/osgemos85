@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @osgemos85
-- 👀 I’m interested in bullet proofed code & human development
+- 👀 I’m interested in bullet proofed software code & human development
 - 🌱 I’m currently learning EBU Core Plus
 - 💞️ I’m looking to collaborate on Semantic Web Projects and Neo4J
 - 📫 How to reach me jan.butz@shifthappens.de
